@@ -1,6 +1,6 @@
 import { Download, Star, Shield, Zap } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroBg from "@/assets/herobg.webp"
+import heroBg from "@/assets/hero-bg.jpg"
 
 const HeroSection = () => {
   return (
